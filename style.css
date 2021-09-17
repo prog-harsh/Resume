@@ -147,11 +147,13 @@ p{
     bottom: 0;
     color: white;
     margin-top: 100px;
+    
     text-align: justify;
     
 }
 #contact h3,#contact p{
     margin-bottom: 10px;
+    margin-left: 10%;
 }
 .footer{
     background-color: #112031;
@@ -176,7 +178,7 @@ p{
         position: fixed;
         top: 0;
         right: -100%;
-        width: 100%;
+        width: 50%;
         height: 100vh;
         background-color: #112031;
         text-align: center;
@@ -195,6 +197,7 @@ p{
     }
     .menu li {
         display: block;
+        margin-right: 0px;
     }
     .menu li a {
         display: block;
@@ -202,7 +205,7 @@ p{
     .menu li a:hover {
         color: black;
         
-        background-color: lightgrey;
+        background-color: white;
         border: none;
     }
     .banner h1{
