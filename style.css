@@ -153,7 +153,7 @@ p{
 }
 #contact h3,#contact p{
     margin-bottom: 10px;
-    margin-left: 10%;
+    margin-left: 5%;
 }
 .footer{
     background-color: #112031;
@@ -178,7 +178,7 @@ p{
         position: fixed;
         top: 0;
         right: -100%;
-        width: 50%;
+        width: 65%;
         height: 100vh;
         background-color: #112031;
         text-align: center;
